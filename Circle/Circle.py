@@ -9,4 +9,4 @@ def circle_r_l(l):
     r = ( l ) / ( 2 * math.pi )
     return(r)
 def circle_area_l(l, a=360):
-    return(circle_area_r(circle_r_l(l)))
+    return(circle_area_r(circle_r_l(l),a))
