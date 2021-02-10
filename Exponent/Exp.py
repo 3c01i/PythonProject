@@ -4,7 +4,7 @@ def fac(i,comp):
     return 1/comp
 exp = 1
 comp = 1
-n = 18
+n = 40
 n_l = range(1,n+1)
 for i in n_l:
     comp = 1
